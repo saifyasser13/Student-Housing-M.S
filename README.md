@@ -1,1 +1,1 @@
-#Priject Charter
+#Project Charter
